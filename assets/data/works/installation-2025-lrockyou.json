@@ -1,0 +1,38 @@
+{
+  "id": "installation-2025-lrockyou",
+  "title": "L/Rockyou",
+  "category": "Installation",
+  "description": [
+    "QUEEN’s “We Will Rock You” has inspired countless people over the years.",
+    "This work empowers viewers through dynamic visuals and music, encouraging them to move their bodies in front of the camera and feel invigorated.",
+    "It aims to help individuals push forward with their own identities and impulses, without being constrained by evaluation or the opinions of others.",
+    "However, when a viewer points a smartphone at this piece, their head is visually “locked” inside a heart shape.",
+    "This serves as a warning about modern tendencies where social media restricts thought and self-expression, sometimes suppressing true individuality.",
+    "Rather than affirming a “locked” head, this work celebrates bodies and souls that “rock” freely.",
+    "",
+    "QUEENの「We Will Rock You」は、これまでに数多くの人々を奮い立たせてきました。",
+    "本作品は鑑賞者がカメラの前で身体を動かすことで、映像と音楽により鑑賞者自身を力強く鼓舞します。",
+    "評価や他者の目に縛られず、自らの存在や衝動をまっすぐに推進できるように。",
+    "一方、この作品にスマートフォンを向けると、鑑賞者の頭部はハートに“Lock”されます。",
+    "これは、SNSが人々の思考や自己表現を制限し、ときに「自分らしさ」を抑圧してしまう現代的心性への警鐘でもあります。",
+    "本作は「Lock」された頭ではなく、「Rock」する体と魂を肯定します。",
+    "",
+    "# tech",
+    "- dlib：顔検出 https://dlib.net/",
+    "- YOLO：物体検出 https://docs.ultralytics.com/",
+    "- 背景差分法：身体の動きの有無の検出",
+    "",
+    "# personal note",
+    "人生で初めて白いタンクトップを購入しました。"
+  ],
+  "year": 2025,
+  "tags": [
+    "TouchDesigner",
+    "YOLO",
+    "dlib",
+    "Motion Detection"
+  ],
+  "thumbnail": "assets/images/installation_2025_lrockyou.png",
+  "videoUrl": "https://youtu.be/46z-sKw314M",
+  "images": []
+}

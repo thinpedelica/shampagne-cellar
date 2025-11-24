@@ -1,0 +1,21 @@
+{
+  "id": "vj-2023-sazareba",
+  "title": "Yengo x Shampagne @sazareba003 ",
+  "category": "VJ",
+  "description": [
+    "Audiovisual collab with sound artist Yengo at sazareba #003, a community event that encourages bold first steps in live performance.",
+    "",
+    "さざれ場#003にて、サウンドアーティストYengoとコラボレーションしたライブVJパフォーマンスです。",
+    "本作ではiPhoneのセンサー情報を外部デバイスへ送信できるアプリ:ZigCamからリアルタイムにカメラ映像・深度情報・カメラ姿勢を取得し、現実空間と3DCGを融合した表現を実現しました。",
+    "",
+    "さざれ場は“失敗を許容する挑戦の場”をモットーに、若手の映像／音楽クリエイターやテクノロジー愛好家が気軽に参加できるコミュニティ。公募・先着順で出演者を募り、ジャンルや手法を問わず新たな才能を輩出しています。"
+  ],
+  "year": 2023,
+  "tags": [
+    "TouchDesigner",
+    "DepthCamera"
+  ],
+  "thumbnail": "assets/images/vj_2023_sazareba.png",
+  "videoUrl": "https://youtu.be/V6upXag3Qu0?si=punxjUkgt8zq7gz1",
+  "images": []
+}

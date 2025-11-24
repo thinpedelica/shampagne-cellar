@@ -1,0 +1,31 @@
+{
+  "id": "data-2023-urbansymphony",
+  "title": "Urban Symphony",
+  "category": "Data Visualize",
+  "description": [
+    "Urban Symphony is an installation that translates PLATEAU city data into synchronized visuals and music, inviting viewers to experience both the density and quietude of their own urban landscapes.",
+    "",
+    "都市の建築情報から生まれる音楽と映像",
+    "",
+    "都市の建築情報から生まれる音楽と映像を通し、その街の複雑さ、あるいは静謐さを体感する。",
+    "",
+    "私たちが歩む都市は、建築の形状や配置から独自の響きを秘めています。都市の構造を音楽へと変換し、都市の本質を新しい角度から捉え直します。",
+    "",
+    "複数の都市を見比べ、聴き比べてみてください。大都市と地方都市では大きく印象が異なるはずです。では、似た規模の都市ではどうでしょうか。「同じような」感覚を覚えるかもしれませんが、それこそ都市の事実が浮かび上がる瞬間です。",
+    "",
+    "子供の頃に住んでいた街、訪れたことのある街では、懐かしさや驚きが呼び起こされます。都市データから生成された音楽と映像を通して、あなたの街を再発見する体験が生まれます。"
+  ],
+  "year": 2023,
+  "tags": [
+    "PLATEAU",
+    "TouchDesigner",
+    "TidalCycles",
+    "Generative"
+  ],
+  "thumbnail": "assets/images/data_2023_urbansymphony.png",
+  "videoUrl": "https://youtu.be/RPBsyPdLXWM?si=NGmgqpJlNevByHKE",
+  "images": [
+    "assets/images/urbansymphony/1.png",
+    "assets/images/urbansymphony/2.png"
+  ]
+}

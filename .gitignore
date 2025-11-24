@@ -1,0 +1,34 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Flutter specific
+.flutter-*
+**/generated_plugin_registrant.dart
+
+# Android/Java
+**/android/**/local.properties
+**/android/.gradle/
+**/android/captures/
+
+# iOS
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Pods/
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Web
+**/web/.DS_Store
+
+# VSCode
+.vscode/
+
+# Misc
+.DS_Store

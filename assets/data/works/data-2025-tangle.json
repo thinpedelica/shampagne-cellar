@@ -1,0 +1,19 @@
+{
+  "id": "data-2025-tangle",
+  "title": "Tangle Up in You",
+  "category": "Data Visualize",
+  "description": [
+    "Motion piece for the Shibuya music bar Tangle’s bimonthly event “Suave,” built from sampled Google reviews that capture why travelers choose this venue.",
+    "",
+    "ミュージックBar渋谷Tangleで隔月開催されるイベント「Suave」のために制作した映像作品です。",
+    "Tangleには多くの海外旅行者が集まり、音楽好きの口コミを頼りに数あるミュージックバーの中からこの場所を選んでいます。",
+    "そのGoogle口コミをサンプリングし、体験の断片から映像表現を構築しました。"
+  ],
+  "year": 2025,
+  "tags": [
+    "TouchDesigner"
+  ],
+  "thumbnail": "assets/images/data_2025_tangle.png",
+  "videoUrl": "https://youtu.be/hDUNw3LlgNI?si=GXcld9xOq6aVirGn",
+  "images": []
+}

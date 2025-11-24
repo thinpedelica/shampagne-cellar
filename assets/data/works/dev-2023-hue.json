@@ -1,0 +1,15 @@
+{
+  "id": "dev-2023-hue",
+  "title": "Philips Hue Light Controller by TouchDesigner",
+  "category": "Dev",
+  "description": [
+    "I built a Philips Hue light controller in TouchDesigner using the open-source touchdesigner-hueControl library."
+  ],
+  "year": 2023,
+  "tags": [
+    "TouchDesigner"
+  ],
+  "thumbnail": "assets/images/dev_2023_hue.png",
+  "videoUrl": "https://youtu.be/vDVvZOYL2Jg?si=pSzRnmaZXtfzvLpa",
+  "images": []
+}

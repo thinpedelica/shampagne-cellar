@@ -1,0 +1,36 @@
+{
+  "id": "data-2017-yoga",
+  "title": "Yoga Pose Estimation",
+  "category": "Data Visualize",
+  "description": [
+    "A machine-learning project to classify multiple yoga poses automatically.",
+    "This work uses Kinect V2 and OpenPose to extract 14-point skeleton data,",
+    "then trains a neural network with Keras/TensorFlow to estimate the pose.",
+    "",
+    "ヨガの複数のポーズを自動分類する機械学習プロジェクトです。",
+    "Kinect V2 と OpenPose を用いて 14 点のスケルトン座標を取得し、",
+    "Keras / TensorFlow によって学習させ、ヨガポーズを推定します。",
+    "",
+    "データ収集、前処理、特徴量抽出、モデル構築、精度評価までを",
+    "一連のパイプラインとして構築しました。",
+    "",
+    "- 使用技術",
+    "  - Kinect V2",
+    "  - OpenPose",
+    "  - Keras / TensorFlow",
+    "",
+    "本作品は機械学習による身体動作の理解をテーマとした",
+    "初期の学術的アプローチとして位置づけられます。"
+  ],
+  "year": 2017,
+  "tags": [
+    "machine learning",
+    "OpenPose",
+    "KinectV2",
+    "TouchDesigner"
+  ],
+  "thumbnail": "assets/images/data_2017_yoga.png",
+  "videoUrl": "https://youtu.be/PQSSw1N9WWA?si=MEmcJm0Dpyz1Auqk",
+  "images": [
+  ]
+}

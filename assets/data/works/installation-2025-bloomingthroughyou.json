@@ -1,0 +1,34 @@
+{
+  "id": "installation-2025-bloomingthroughyou",
+  "title": "Blooming Through You",
+  "category": "Installation",
+  "description": [
+    "You may not be able to see your own emotions.",
+    "But the people around you may be able to see them.",
+    "",
+    "あなたの気持ちは、あなた自身には見えないかもしれない。",
+    "でも、まわりの人には見えているかもしれない。",
+    "",
+    "本作品は、カメラで撮影された鑑賞者の表情をリアルタイムに解析し、鑑賞者が笑顔になると花のつぼみが開いていきます。鑑賞者がカメラ（承認欲求）を向けると、花の中からハートのオブジェクトが現れます。",
+    "",
+    "鑑賞者の表情と撮影という動作を可視化することで、現代におけるアート鑑賞という行為を問い直します。",
+    "人はなぜ作品を写真に収め、なぜ SNS に投稿するのでしょうか。鑑賞の記録、アーティストの応援、本当にそれだけでしょうか。",
+    "",
+    "本作品はアート鑑賞時の感情や欲求を、花とハートのビジュアルで象徴的に可視化し、インタラクティブな体験を通して浮かび上がらせます。",
+    "",
+    "- 利用ライブラリ",
+    "  - FER（表情認識）",
+    "  - YOLO（物体認識）"
+  ],
+  "year": 2025,
+  "tags": [
+    "TouchDesigner",
+    "FER",
+    "YOLO",
+    "Interactive"
+  ],
+  "thumbnail": "assets/images/installation_2025_bloomingthroughyou.png",
+  "heroOrder": 1,
+  "videoUrl": "https://youtu.be/eWwam7IQNqw",
+  "images": []
+}

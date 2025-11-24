@@ -1,0 +1,31 @@
+{
+  "id": "installation-2025-move",
+  "title": "Move",
+  "category": "Installation",
+  "description": [
+    "Numerous studies have reported that long-term exercise habits suppress physiological decline and physical deterioration, thereby preventing aging.",
+    "Continuing aerobic exercise and strength training is effective.",
+    "",
+    "運動によって筋組織から分泌される PEDF という因子が細胞老化を抑制する働きを持つことが動物モデルで示されています。",
+    "また、運動はサーチュイン遺伝子（別名：抗老化遺伝子）の活性化に不可欠な NAD という物質の量を増やし、老化制御に寄与します。",
+    "長期的な運動習慣は、生理機能や体力の低下を抑制し、老化を防止することが複数の研究で報告されています。",
+    "有酸素運動や筋トレなど、無理のない範囲で継続することが効果的です。",
+    "",
+    "# tech",
+    "- StyleGAN: 画像生成 https://github.com/yuval-alaluf/stylegan3-editing",
+    "",
+    "# personal note",
+    "私としては「アンチエイジング」という言葉はあまり好きではないです。",
+    "日頃から魅力的な先輩たちを見ていると、年を経てますます輝きを増しています。",
+    "動き続けることが「グッドエイジング」だと思っています。"
+  ],
+  "year": 2025,
+  "tags": [
+    "TouchDesigner",
+    "StyleGAN",
+    "Generative Art"
+  ],
+  "thumbnail": "assets/images/installation_2025_move.png",
+  "videoUrl": "https://youtu.be/yAIwtX1kb4A",
+  "images": []
+}

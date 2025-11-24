@@ -1,0 +1,18 @@
+{
+  "id": "mv-2023-misaki",
+  "title": "Misaki",
+  "category": "MV",
+  "description": [
+    "A short visual piece pairing the ambient live soundtrack I produced in TidalCycles with bespoke imagery.",
+    "",
+    "TidalCyclesで行ったアンビエントライブの音源に合わせて映像を制作した小作品です。"
+  ],
+  "year": 2023,
+  "tags": [
+    "Unity",
+    "TydalCycles"
+  ],
+  "thumbnail": "assets/images/mv_2023_misaki.png",
+  "videoUrl": "https://youtu.be/x4Y4Xu6R6Fo",
+  "images": []
+}

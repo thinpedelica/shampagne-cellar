@@ -1,0 +1,18 @@
+{
+  "id": "mv-2022-australia",
+  "title": "Australia",
+  "category": "MV",
+  "description": [
+    "A short Unreal Engine study paired with an original soundtrack composed in TidalCycles.",
+    "",
+    "Unreal Engineでの習作に、TidalCyclesで作ったオリジナル楽曲を合わせた映像作品です。"
+  ],
+  "year": 2022,
+  "tags": [
+    "UnrealEngine",
+    "TydalCycles"
+  ],
+  "thumbnail": "assets/images/mv_2022_australia.png",
+  "videoUrl": "https://youtu.be/d_jprWXtSy4?si=MKqVdpIVDy1VlsvE",
+  "images": []
+}

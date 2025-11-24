@@ -1,0 +1,35 @@
+{
+  "id": "installation-2025-instakiller",
+  "title": "Insta Killer",
+  "category": "Installation",
+  "description": [
+    "Why do you take photos?",
+    "Is it your art log or to learn from?",
+    "Why do you post those photos on SNS?",
+    "Is it to share the artist or to support them?",
+    "Or is this what you really want?",
+    "",
+    "なぜ作品を写真に撮るのでしょうか。",
+    "鑑賞の記録であったり、作品から学びを得るためでしょうか。",
+    "あなたはなぜその写真をSNSにあげるのでしょうか。",
+    "アーティストの魅力を共有したり、応援したりするためでしょうか。",
+    "それとも、あなたが欲しいのはこれですか？",
+    "",
+    "# tech",
+    "- YOLO：物体検出 https://docs.ultralytics.com/",
+    "",
+    "# personal note",
+    "本業でお世話になった OMM Killer (Out Of Memory Killer) というメモリ管理機能があって、メモリ破壊しそうなプロセスを強制的に Kill するんですよね。",
+    "SNS にアップするために写真を撮ろうとすると邪魔をする作品。"
+  ],
+  "year": 2025,
+  "tags": [
+    "TouchDesigner",
+    "YOLO",
+    "Installation",
+    "Object Detection"
+  ],
+  "thumbnail": "assets/images/installation_2025_instakiller.jpg",
+  "videoUrl": "https://youtu.be/DqAsFyQ2Zo8",
+  "images": []
+}

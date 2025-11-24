@@ -1,0 +1,18 @@
+{
+  "id": "data-2023-airroute",
+  "title": "Air Route",
+  "category": "Data Visualize",
+  "description": [
+    "I visualized the top 15 countries in terms of airline routes.",
+    "Data on airports and routes are based on the following websites:",
+    "https://openflights.org/data.html"
+  ],
+  "year": 2023,
+  "tags": [
+    "TouchDesigner",
+    "python"
+  ],
+  "thumbnail": "assets/images/data_2023_airroute.jpg",
+  "videoUrl": "https://youtu.be/NCuEf64kGUo?si=I9JwcB_IyQ5TQlps",
+  "images": []
+}
