@@ -70,7 +70,6 @@ class WorkDetailPage extends StatelessWidget {
                 Divider(color: Colors.black.withOpacity(0.08)),
               ],
             ),
-            if (hasVideo) VideoEmbed(work: work),
             Text(
               work.description,
               style: textTheme.bodyLarge,
@@ -90,6 +89,10 @@ class WorkDetailPage extends StatelessWidget {
                         ))
                     .toList(),
               ),
+            ],
+            if (hasVideo) ...[
+              const SizedBox(height: 32),
+              VideoEmbed(work: work),
             ],
             if (work.images.isNotEmpty) ...[
               const SizedBox(height: 32),
