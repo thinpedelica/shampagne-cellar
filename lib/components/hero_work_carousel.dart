@@ -147,13 +147,13 @@ class _HeroSlide extends StatelessWidget {
             Image.asset(
               work.thumbnail,
               fit: BoxFit.cover,
+              filterQuality: FilterQuality.high,
             ),
-            Container(color: Colors.black.withOpacity(0.35)),
-          Positioned(
-            left: 32,
-            right: 32,
-            bottom: 32,
-            child: Column(
+            Positioned(
+              left: 32,
+              right: 32,
+              bottom: 32,
+              child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
