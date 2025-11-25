@@ -41,15 +41,20 @@ class WorkApp extends StatelessWidget {
       GoRoute(
         path: '/work/:id',
         name: 'work-detail',
-        builder: (context, state) {
+        pageBuilder: (context, state) {
           final id = state.pathParameters['id'] ?? '';
           final work = WorkRepository.findById(works, id);
           if (work == null) {
-            return NotFoundPage(message: 'Work "$id" was not found.');
+            return NoTransitionPage(
+              child: NotFoundPage(message: 'Work "$id" was not found.'),
+            );
           }
-          return WorkDetailPage(
-            work: work,
-            relatedWorks: WorkRepository.relatedWorks(works, work),
+          return NoTransitionPage(
+            key: ValueKey('work-detail-$id'),
+            child: WorkDetailPage(
+              work: work,
+              relatedWorks: WorkRepository.relatedWorks(works, work),
+            ),
           );
         },
       ),
