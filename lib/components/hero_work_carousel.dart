@@ -137,6 +137,21 @@ class _HeroSlide extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final width = MediaQuery.of(context).size.width;
+    final isMobile = width < 600;
+    final textTheme = Theme.of(context).textTheme;
+    final titleStyle = isMobile
+        ? textTheme.titleMedium?.copyWith(
+            color: Colors.white,
+            fontWeight: FontWeight.w600,
+          )
+        : textTheme.headlineMedium?.copyWith(
+            color: Colors.white,
+            fontWeight: FontWeight.bold,
+          );
+    final categoryStyle = isMobile
+        ? textTheme.labelSmall?.copyWith(color: Colors.white70)
+        : textTheme.labelLarge?.copyWith(color: Colors.white70);
     return GestureDetector(
       onTap: onTap,
       child: AspectRatio(
@@ -154,25 +169,20 @@ class _HeroSlide extends StatelessWidget {
               right: 32,
               bottom: 32,
               child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(
-                  work.category,
-                  style: Theme.of(context).textTheme.labelLarge?.copyWith(
-                        color: Colors.white70,
-                      ),
-                ),
-                const SizedBox(height: 4),
-                Text(
-                  work.title,
-                  style: Theme.of(context).textTheme.headlineMedium?.copyWith(
-                        color: Colors.white,
-                        fontWeight: FontWeight.bold,
-                      ),
-                ),
-              ],
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    work.category,
+                    style: categoryStyle,
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    work.title,
+                    style: titleStyle,
+                  ),
+                ],
+              ),
             ),
-          ),
         ],
       ),
       ),
