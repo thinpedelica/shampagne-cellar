@@ -22,10 +22,11 @@
     "TidalCycles",
     "Generative"
   ],
-  "thumbnail": "assets/images/data_2023_urbansymphony.png",
+  "thumbnail": "assets/images/data_2023_urbansymphony.webp",
   "videoUrl": "https://youtu.be/RPBsyPdLXWM?si=NGmgqpJlNevByHKE",
   "images": [
-    "assets/images/urbansymphony/1.png",
-    "assets/images/urbansymphony/2.png"
+    "assets/images/urbansymphony/1.webp",
+    "assets/images/urbansymphony/2.webp"
   ]
 }
+

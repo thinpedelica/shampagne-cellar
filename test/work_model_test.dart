@@ -10,11 +10,11 @@ void main() {
       'description': 'A quick demo.',
       'year': 2024,
       'tags': ['demo', 'test'],
-      'thumbnail': 'assets/images/demo.png',
+      'thumbnail': 'assets/images/demo.webp',
       'heroOrder': 1,
       'videoUrl': 'https://www.youtube.com/watch?v=demo',
       'videoId': 'demoId',
-      'images': ['assets/images/demo-1.png', 'assets/images/demo-2.png'],
+      'images': ['assets/images/demo-1.webp', 'assets/images/demo-2.webp'],
     };
 
     final work = Work.fromJson(Map<String, dynamic>.from(payload));
@@ -29,3 +29,4 @@ void main() {
     expect(work.toJson(), payload);
   });
 }
+
