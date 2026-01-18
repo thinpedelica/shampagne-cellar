@@ -1,0 +1,29 @@
+{
+  "id": "art-2025-formgiven",
+  "title": "form, given",
+  "category": "Art",
+  "description": [
+    "This work examines how the act of \"making\" is shifting now that generative technologies have deeply entered creative practice.",
+    "The sculptural forms built from generated images contain the differences that arise between intentional design and automatic generation.",
+    "As clear criteria such as completion or incompletion, success or failure recede, a situation emerges in which the grounds of judgment themselves waver for both makers and viewers.",
+    "Through making expanded by technology, this work presents the shared uncertainty of judgment in today's expressive environment.",
+    "",
+    "本作は、生成技術が創作の現場に深く入り込んだ現在において、「作る」という行為そのものがどのように変質しつつあるのかを検証する試みである。",
+    "",
+    "生成されたイメージを起点として構築される立体群は、意図的な設計と自動的な生成のあいだに生じる差異を内包している。",
+    "",
+    "完成や未完成、成功や失敗といった明確な基準が後退し、制作する側と、受け取る側の双方にとって、判断の拠り所そのものが揺らぐ状況が立ち上がる。",
+    "",
+    "本作は、技術によって拡張された製作行為を通じて、現在の表現環境において共有されつつある判断の不確かさを提示する。"
+  ],
+  "year": 2026,
+  "tags": [
+    "Unity",
+    "TidalCycles",
+    "Tripo Studio"
+  ],
+  "thumbnail": "assets/images/art_2026_formgiven.webp",
+  "heroOrder": 5,
+  "videoUrl": "https://youtu.be/M9fxcXC13_I",
+  "images": []
+}
