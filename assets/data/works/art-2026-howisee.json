@@ -1,0 +1,30 @@
+{
+  "id": "art-2026-howisee",
+  "title": "How I See",
+  "category": "Art",
+  "description": [
+    "How I See examines the distance between recognition and understanding.",
+    "I filmed Taiwan—a place that has become deeply familiar to me through my family, yet remains culturally and historically outside my own lived experience—and presented these images to an object-recognition AI model that I trained myself.",
+    "The system continuously assigns labels:",
+    "person, scooter, lantern.",
+    "It transforms the visible world into categories it already knows. Yet naming an object reveals little about the histories, memories, cultural meanings, or political realities surrounding it.",
+    "This computational gaze became a mirror for my own.",
+    "I, too, approach Taiwan through existing knowledge, language, and experience, attempting to connect what I see with what I have learned.",
+    "But Taiwan’s everyday landscape contains multiple histories and identities that cannot be reduced to a single description.",
+    "By placing human and machine vision alongside one another, How I See considers how acts of seeing, naming, and categorizing shape—and limit—our understanding of a place.",
+    "",
+    "『How I See』は、「認識すること」と「理解すること」のあいだにある距離を見つめる映像作品である。",
+    "家族を通して身近でありながら、自らの文化的・歴史的経験の外側にある台湾を撮影し、その映像を物体認識AIに分類させた。",
+    "私もまた、すでに持っている知識や言葉、経験を通して台湾を見ている。",
+    "しかし台湾の日常の風景には、異なる時代の歴史や文化、複数のアイデンティティが重なり合い、ひとつの説明へと還元できないものが存在する。",
+    "本作は、人間と機械、二つの視線を並置することで、見ること、名前を与えること、分類することが、私たちの理解をどのように形づくり、同時に制限しているのかを問いかける。"
+  ],
+  "year": 2026,
+  "tags": [
+    "YOLO"
+  ],
+  "thumbnail": "assets/images/art_2026_howisee.webp",
+  "heroOrder": 6,
+  "videoUrl": "https://www.youtube.com/watch?v=2bvc9_Ld0kY",
+  "images": []
+}
